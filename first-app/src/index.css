@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    font-family: Arial,sans-serif;
+}
+
+.navbar{
+    background-color: deepskyblue;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.card{
+    box-shadow: 0 0 5px black;
+    width: 300px;
+    margin: 30px;
+    padding: 20px;
+    text-align: center;
+    background-color: teal;
+    color: whitesmoke;
+}
